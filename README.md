@@ -1,6 +1,6 @@
 # 📺 ML YouTube Courses
 
-A repository to organize the latest machine learning courses found on YouTube.
+At dair.ai we ❤️ open education. We are excited to share some of the best and most recent machine learning courses available on YouTube.
 
 Course List:
 
