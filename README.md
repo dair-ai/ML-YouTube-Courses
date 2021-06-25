@@ -1,4 +1,4 @@
-# ML YouTube Courses
+# 📺 ML YouTube Courses
 
 A repository to organize the latest machine learning courses found on YouTube.
 
