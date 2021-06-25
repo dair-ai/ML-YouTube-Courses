@@ -216,7 +216,7 @@ To learn full-stack production deep learning:
 
 ## What's Next?
 
-There are many plans to keep improving this collection. For instance, I will be sharing notes and better organizing individual lectures in a way that provides a bit of guidance for those that are getting stated with machine learning. 
+There are many plans to keep improving this collection. For instance, I will be sharing notes and better organizing individual lectures in a way that provides a bit of guidance for those that are getting started with machine learning. 
 
 
 If you are interested to contribute, feel free to open a PR with links to all individual lectures for each course. It will take a bit of time, but I have plans to do many things with these individual lectures. We can summarize the lectures, include notes, provide additional reading material, include difficult of content, etc. 
