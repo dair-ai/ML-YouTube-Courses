@@ -8,6 +8,7 @@ Course List:
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
 - [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
 - [Probabilistic Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#probabilistic-machine-learning)
+- [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
 - [Deep Learning: CS 182](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-cs-182)
 - [Deep Unsupervised Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
