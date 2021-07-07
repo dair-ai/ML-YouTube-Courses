@@ -80,6 +80,14 @@ To learn the probabilistic paradigm of ML:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 
+## Introduction to Deep Learning
+
+To learn some of the fundamentals of deep learning:
+
+• Introduction to Deep Learning
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
 ## Deep Learning: CS 182
 
 To learn some of the widely used techniques in deep learning:
