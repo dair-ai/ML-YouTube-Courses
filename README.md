@@ -18,6 +18,7 @@ Course List:
 - [Deep Learning for Computer Vision](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision)
 - [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
 - [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
+- [AMMI Geometric Deep Learning Course (2021)]()
 
 ---
 
@@ -189,6 +190,19 @@ To learn some of the fundamental concepts in CV:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+
+## AMMI Geometric Deep Learning Course (2021)
+
+To learn about concepts in geometric deep learning:
+
+• Learning in High Dimensions
+• Geometric Priors
+• Grids
+• Manifolds and Meshes
+• Sequences and Time Warping
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
 
 ## Deep Reinforcement Learning
 
