@@ -235,6 +235,20 @@ To learn full-stack production deep learning:
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
 
 
+## Introduction to Deep Learning and Deep Generative Models
+
+Covers the fundamental concepts of deep learning 
+
+• Single-layer neural networks and gradient descent
+• Multi-layer neura networks and backpropagation
+• Convolutional neural networks for images
+• Recurrent neural networks for text
+• autoencoders, variational autoencoders, and generative adversarial networks
+• encoder-decoder recurrent neural networks and transformers
+• PyTorch code examples
+
+🔗 [Link to Course](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)  🔗 [Link to Materials](https://sebastianraschka.com/blog/2021/dl-course.html)
+
 ---
 
 ## What's Next?
