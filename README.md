@@ -12,7 +12,7 @@ Course List:
 - [Deep Learning: CS 182](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-cs-182)
 - [Deep Unsupervised Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
-- [Columbia University - Natural Language Processing] (https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#columbia-university-Natural-language-processing)
+- [Columbia University : Natural Language Processing] (https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#columbia-university-Natural-language-processing)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
 - [Multilingual NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#multilingual-nlp)
