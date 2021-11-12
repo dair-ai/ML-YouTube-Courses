@@ -12,6 +12,7 @@ Course List:
 - [Deep Learning: CS 182](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-cs-182)
 - [Deep Unsupervised Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
+- [Columbia University - Natural Language Processing] (https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#columbia-university-Natural-language-processing)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
 - [Multilingual NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#multilingual-nlp)
@@ -133,6 +134,30 @@ To learn some of the advanced techniques in deep learning:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+
+## Columbia University : Natural Language Processing
+
+To learn advanced concepts in NLP:
+
+• Introduction to Natural Language Processing
+• Language Modeling Problem
+• Tagging Problems, and Hidden Markov Models
+• Parsing, and Context-Free Grammars
+• Context-Free Grammars (PCFGs), Weaknesses of PCFGs, Lexicalized PCFGs, 
+• Introduction to Machine Translation (MT)
+• The IBM Translation Models
+• Phrase-based Translation Models
+• Decoding of Phrase-based Translation Models
+• Log-linear Models
+• Log-linear Models for Tagging (MEMMs)
+• Log-Linear Models for History-based Parsing
+• Unsupervised Learning: Brown Clustering
+• Brown Clustering
+• Global Linear Models (GLMs)
+• GLMs for Tagging
+• GLMs for Dependency Parsing
+
+🔗 [Link to Course](https://www.youtube.com/channel/UCB_JX4jH3QQmp69rmkWpl1A/playlists?view=50&sort=dd&shelf_id=3)
 
 ## CS224N: Natural Language Processing with Deep Learning
 
