@@ -14,6 +14,7 @@ Course List:
 - [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
+- [CMU Advanced NLP]()
 - [Multilingual NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#multilingual-nlp)
 - [Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#advanced-nlp)
 - [Deep Learning for Computer Vision](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision)
@@ -160,6 +161,19 @@ To learn the latest neural network based techniques for NLP:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
+
+## CMU Advanced NLP
+
+To learn:
+- Basics of modern NLP techniques
+- Multi-task, Multi-domain, multi-lingual learning
+- Prompting + Sequence-to-sequence pre-training
+- Interpreting and Debugging NLP Models
+- Learning from Knowledge-bases
+- Adversarial learning
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
 
 ## Multilingual NLP
 
