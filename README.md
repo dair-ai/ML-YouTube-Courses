@@ -14,6 +14,7 @@ Course List:
 - [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
+- [CS224U: Natural Language Understanding]()
 - [CMU Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-advanced-nlp)
 - [Multilingual NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#multilingual-nlp)
 - [Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#advanced-nlp)
@@ -161,6 +162,18 @@ To learn the latest neural network based techniques for NLP:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
+
+## CS224U: Natural Language Understanding
+
+To learn the latest concepts in natural language understanding:
+- Grounded Langugage Understanding
+- Relation Extraction
+- Natural Language Inference (NLI)
+- NLU and Neural Information Extraction
+- Adversarial testing
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
 
 ## CMU Advanced NLP
 
