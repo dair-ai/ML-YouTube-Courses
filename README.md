@@ -6,6 +6,7 @@ Course List:
 
 - [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
+- [Practical Deep Learning for Coders (2020)]()
 - [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
 - [Probabilistic Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#probabilistic-machine-learning)
 - [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
@@ -54,6 +55,20 @@ To learn some of the most widely used techniques in ML:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+
+## Practical Deep Learning for Coders (2020)
+
+After finishing this course you will know:
+
+- How to train models that achieve state-of-the-art results
+- How to turn your models into web applications, and deploy them
+- Why and how deep learning models work, and how to use that knowledge to improve the accuracy, speed, and reliability of your models
+- The latest deep learning techniques that really matter in practice
+- How to implement stochastic gradient descent and a complete training loop from scratch
+- How to think about the ethical implications of your work, to help ensure that you're making the world a better place and that your work isn't misused for harm
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
 
 
 ## Machine Learning with Graphs (Stanford)
