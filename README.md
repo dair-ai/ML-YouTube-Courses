@@ -6,7 +6,7 @@ Course List:
 
 - [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
-- [Practical Deep Learning for Coders (2020)]()
+- [Practical Deep Learning for Coders (2020)](https://github.com/dair-ai/ML-YouTube-Courses#practical-deep-learning-for-coders-2020)
 - [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
 - [Probabilistic Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#probabilistic-machine-learning)
 - [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
