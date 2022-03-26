@@ -23,6 +23,7 @@ Course List:
 - [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
 - [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
+- [Applied Language Technology](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-language-technology)
 
 ---
 
@@ -305,6 +306,19 @@ Covers the fundamental concepts of deep learning
 - PyTorch code examples
 
 🔗 [Link to Course](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)  🔗 [Link to Materials](https://sebastianraschka.com/blog/2021/dl-course.html)
+
+## Applied Language Technology
+
+This course introduces language technology to newcomers with no background in computer science or programming. The course introduces:
+
+- loading and manipulating text using Python
+- applying basic natural language processing techniques
+- annotating texts in diverse languages using spaCy and Stanza
+- searching linguistic annotations for patterns
+- the Universal Dependencies annotation schema
+- the distributional hypothesis and word embeddings
+
+🔗 [Link to Course](https://www.youtube.com/c/AppliedLanguageTechnology/) 🔗 [Link to Materials](https://applied-language-technology.mooc.fi/) 🔗 [Link to Repository with Jupyter Notebooks](https://github.com/Applied-Language-Technology/notebooks)
 
 ---
 
