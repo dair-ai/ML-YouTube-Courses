@@ -6,6 +6,8 @@ Course List:
 
 - [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
+- [Introduction to Machine Learning (Tubingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-machine-learning-tubingen)
+- [Statistical Machine Learning (Tubingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#statistical-machine-learning-tubingen)
 - [Practical Deep Learning for Coders (2020)](https://github.com/dair-ai/ML-YouTube-Courses#practical-deep-learning-for-coders-2020)
 - [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
 - [Probabilistic Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#probabilistic-machine-learning)
@@ -13,6 +15,7 @@ Course List:
 - [Deep Learning: CS 182](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-cs-182)
 - [Deep Unsupervised Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
+- [Deep Learning (Tubingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-tubingen)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
 - [CS224U: Natural Language Understanding](https://github.com/dair-ai/ML-YouTube-Courses#cs224u-natural-language-understanding)
@@ -21,8 +24,10 @@ Course List:
 - [Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#advanced-nlp)
 - [Deep Learning for Computer Vision](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision)
 - [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
+- [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-lecture-series-deepmind)
 - [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
+- [Self-Driving Cars (Tubingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-tubingen)
 
 ---
 
@@ -55,6 +60,39 @@ To learn some of the most widely used techniques in ML:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+
+## Introduction to Machine Learning (Tubingen)
+
+The course serves as a basic introduction to machine learning and covers key concepts in regression, classification, optimization, regularization, clustering, and dimensionality reduction.
+
+- Linear regression
+- Logistic regression
+- Regularization
+- Boosting
+- Neural networks
+- PCA
+- Clustering
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
+
+## Statistical Machine Learning (Tubingen)
+
+The course covers the standard paradigms and algorithms in statistical machine learning.
+
+- KNN
+- Bayesian decision theory
+- Convex optimization
+- Linear and ridge regression
+- Logistic regression
+- SVM
+- Random Forests
+- Boosting
+- PCA
+- Clustering
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 
 ## Practical Deep Learning for Coders (2020)
 
@@ -150,6 +188,19 @@ To learn some of the advanced techniques in deep learning:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+
+## Deep Learning (Tubingen)
+
+This course introduces the practical and theoretical principles of deep neural networks. 
+
+- Computation graphs
+- Activation functions and loss functions
+- Training, regularization and data augmentation
+- Basic and state-of-the-art deep neural network architectures including convolutional networks and graph neural networks
+- Deep generative models such as auto-encoders, variational auto-encoders and generative adversarial networks
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
 
 ## CS224N: Natural Language Processing with Deep Learning
 
@@ -275,6 +326,18 @@ To learn the latest concepts in deep RL:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
+## Reinforcement Learning Lecture Series (DeepMind)
+
+The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL Centre for Artificial Intelligence.
+
+- Introduction to RL
+- Dynamic Programming
+- Model-free algorithms
+- Deep reinforcement learning
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+
 ## Full Stack Deep Learning
 
 To learn full-stack production deep learning:
@@ -306,6 +369,19 @@ Covers the fundamental concepts of deep learning
 
 🔗 [Link to Course](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)  🔗 [Link to Materials](https://sebastianraschka.com/blog/2021/dl-course.html)
 
+## Self-Driving Cars (Tubingen)
+
+Covers the most dominant paradigms of self-driving cars: modular pipeline-based approaches as well as deep-learning based end-to-end driving techniques.
+
+- Camera, lidar and radar-based perception
+- Localization, navigation, path planning
+- Vehicle modeling/control
+- Deep Learning
+- Imitation learning
+- Reinfocement learning
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+
 ---
 
 ## What's Next?
@@ -314,5 +390,3 @@ There are many plans to keep improving this collection. For instance, I will be 
 
 
 If you are interested to contribute, feel free to open a PR with links to all individual lectures for each course. It will take a bit of time, but I have plans to do many things with these individual lectures. We can summarize the lectures, include notes, provide additional reading material, include difficulty of content, etc. 
-
-
