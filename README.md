@@ -28,6 +28,7 @@ Course List:
 - [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
 - [Self-Driving Cars (Tubingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-tubingen)
+- [Machine Learning Systems Design (2022)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-systems-design-2022) 
 
 ---
 
@@ -381,6 +382,20 @@ Covers the most dominant paradigms of self-driving cars: modular pipeline-based 
 - Reinfocement learning
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+
+## Machine Learning Systems Design (2022)
+
+This course aims to provide an iterative framework for developing real-world machine learning systems that are deployable, reliable, and scalable.
+
+- Data management
+- Data engineering
+- Feature engineering
+- Model selection, training, scaling
+- How to continually monitor and deploy changes to ML systems
+- Team structure and business metrics
+- Privacy, fairness, and security.
+
+🔗 [Link to Course](https://stanford-cs329s.github.io/)
 
 ---
 
