@@ -76,6 +76,8 @@ The course serves as a basic introduction to machine learning and covers key con
 - Clustering
 ...
 
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
+
 ## Introduction to Machine Learning (Munich) 
 
 Covers many supervised machine learning concepts.
@@ -90,8 +92,6 @@ Covers many supervised machine learning concepts.
 -  ...
 
 🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(youtube links are embedde within the chapters)
-
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 
 ## Statistical Machine Learning (Tübingen)
 
