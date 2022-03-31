@@ -91,7 +91,7 @@ Covers many supervised machine learning concepts.
 - Gaussian Processes
 -  ...
 
-🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(youtube links are embedde within the chapters)
+🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(YouTube links are embedded within the chapters)
 
 ## Statistical Machine Learning (Tübingen)
 
