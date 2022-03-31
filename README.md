@@ -7,6 +7,7 @@ Course List:
 - [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
 - [Introduction to Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-machine-learning-Tübingen)
+- [Introduction to machine learning (Munich)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#Introduction-to-machine-learning-Munich)
 - [Statistical Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#statistical-machine-learning-Tübingen)
 - [Practical Deep Learning for Coders (2020)](https://github.com/dair-ai/ML-YouTube-Courses#practical-deep-learning-for-coders-2020)
 - [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
@@ -28,7 +29,7 @@ Course List:
 - [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
 - [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
-- [Introduction to machine learning (Munich)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#Introduction-to-machine-learning-Munich)
+
 
 ---
 
@@ -74,6 +75,21 @@ The course serves as a basic introduction to machine learning and covers key con
 - PCA
 - Clustering
 ...
+
+## Introduction to Machine Learning (Munich) 
+
+Covers many supervised machine learning concepts.
+ 
+- Machine Learning Basics
+- Supervised Regression and Classification
+- Performance Evaluation
+- Classification and Regression Trees (CART)
+- Information Theory
+- Linear and Nonlinear Support Vector Machine
+- Gaussian Processes
+-  ...
+
+🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(youtube links are embedde within the chapters)
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 
@@ -382,22 +398,6 @@ Covers the most dominant paradigms of self-driving cars: modular pipeline-based 
 - Reinfocement learning
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
-
-## Introduction to Machine Learning (Munich) 
-
-Covers many supervised machine learning concepts.
- 
-- Machine Learning Basics
-- Supervised Regression and Classification
-- Performance Evaluation
-- Classification and Regression Trees (CART)
-- Information Theory
-- Linear and Nonlinear Support Vector Machine
--  Gaussian Processes
--  ...
--  
-
-🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(youtube links are embedde within the chapters)
 
 ---
 
