@@ -29,7 +29,7 @@ Course List:
 - [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
 - [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
-
+- [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
 
 ---
 
@@ -398,6 +398,21 @@ Covers the most dominant paradigms of self-driving cars: modular pipeline-based 
 - Reinfocement learning
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+
+## Stanford CS230: Deep Learning (2018)
+
+Covers the foundations of deep learning, how to build different neural networks(CNNs, RNNs, LSTMs, etc...), how to lead machine learning projects, and career advice for deep learning practitioners.
+
+- Deep Learning Intuition
+- Adversarial examples - GANs
+- Full-cycle of a Deep Learning Project
+- AI and Healthcare
+- Deep Learning Strategy 
+- Interpretability of Neural Networks
+- Career Advice and Reading Research Papers
+- Deep Reinforcement Learning
+
+🔗 [Link to Course](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) 🔗 [Link to Materials](https://cs230.stanford.edu/syllabus/)
 
 ---
 
