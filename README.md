@@ -5,6 +5,7 @@ At DAIR.AI we ❤️ open education. We are excited to share some of the best an
 Course List:
 
 - [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
+- [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
 - [Introduction to Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-machine-learning-Tübingen)
 - [Introduction to machine learning (Munich)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#Introduction-to-machine-learning-Munich)
@@ -24,12 +25,13 @@ Course List:
 - [Multilingual NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#multilingual-nlp)
 - [Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#advanced-nlp)
 - [Deep Learning for Computer Vision](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision)
+- [Deep Learning for Computer Vision (DL4CV)]()
 - [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
 - [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-lecture-series-deepmind)
 - [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
 - [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
-- [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
+
 
 ---
 
@@ -48,6 +50,21 @@ To learn some of the basics of ML:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+## Stanford CS230: Deep Learning (2018)
+
+Covers the foundations of deep learning, how to build different neural networks(CNNs, RNNs, LSTMs, etc...), how to lead machine learning projects, and career advice for deep learning practitioners.
+
+- Deep Learning Intuition
+- Adversarial examples - GANs
+- Full-cycle of a Deep Learning Project
+- AI and Healthcare
+- Deep Learning Strategy 
+- Interpretability of Neural Networks
+- Career Advice and Reading Research Papers
+- Deep Reinforcement Learning
+
+🔗 [Link to Course](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) 🔗 [Link to Materials](https://cs230.stanford.edu/syllabus/)
 
 ## Applied Machine Learning
 
@@ -316,6 +333,22 @@ To learn some of the fundamental concepts in CV:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
+## Deep Learning for Computer Vision
+
+To learn modern methods for computer vision:
+
+- CNNs
+- Advanced PyTorch
+- Understanding Neural Networks
+- RNN, Attention and ViTs
+- Generative Models
+- GPU Fundementals
+- Self-Supervision
+- Neural Rendering
+- Efficient Architectures
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
+
 ## AMMI Geometric Deep Learning Course (2021)
 
 To learn about concepts in geometric deep learning:
@@ -399,20 +432,6 @@ Covers the most dominant paradigms of self-driving cars: modular pipeline-based 
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 
-## Stanford CS230: Deep Learning (2018)
-
-Covers the foundations of deep learning, how to build different neural networks(CNNs, RNNs, LSTMs, etc...), how to lead machine learning projects, and career advice for deep learning practitioners.
-
-- Deep Learning Intuition
-- Adversarial examples - GANs
-- Full-cycle of a Deep Learning Project
-- AI and Healthcare
-- Deep Learning Strategy 
-- Interpretability of Neural Networks
-- Career Advice and Reading Research Papers
-- Deep Reinforcement Learning
-
-🔗 [Link to Course](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) 🔗 [Link to Materials](https://cs230.stanford.edu/syllabus/)
 
 ---
 
