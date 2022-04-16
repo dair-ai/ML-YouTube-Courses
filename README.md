@@ -333,7 +333,7 @@ To learn some of the fundamental concepts in CV:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
-## Deep Learning for Computer Vision
+## Deep Learning for Computer Vision (DL4CV)
 
 To learn modern methods for computer vision:
 
