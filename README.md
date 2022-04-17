@@ -470,6 +470,6 @@ Covers the most dominant paradigms of self-driving cars: modular pipeline-based 
 
 Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions. 
 
-If you are interested to contribute, feel free to open a PR with links to all individual lectures for each course. It will take a bit of time, but I have plans to do many things with these individual lectures. We can summarize the lectures, include notes, provide additional reading material, include difficulty of content, etc. 
+If you are interested to contribute, feel free to open a PR with a link to the course. It will take a bit of time, but I have plans to do many things with these individual lectures. We can summarize the lectures, include notes, provide additional reading material, include difficulty of content, etc. 
 
 You can now find ML Course notes [here](https://github.com/dair-ai/ML-Course-Notes). 
