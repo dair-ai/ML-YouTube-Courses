@@ -5,6 +5,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 **Machine Learning**
 
 - [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
+- [Making Friends with Machine Learning]()
 - [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
 - [Introduction to Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-machine-learning-Tübingen)
 - [Introduction to machine learning (Munich)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#Introduction-to-machine-learning-Munich)
@@ -67,6 +68,20 @@ To learn some of the basics of ML:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+## Making Friends with Machine Learning
+
+A series of mini lectures covering various introductory topics in ML:
+
+- Explainability in AI
+- Classification vs. Regression
+- Precession vs. Recall
+- Statistical Significance
+- Clustering and K-means
+- Enbsemle models
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 
 ## Stanford CS230: Deep Learning (2018)
 
