@@ -38,8 +38,11 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Deep Learning for Computer Vision (DL4CV)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision-dl4cv)
 
 **Reinforcement Learning**
+
 - [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
 - [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-lecture-series-deepmind)
+- [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-polytechnique-montreal-fall-2021)
+- [Foundations of Deep RL](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#foundations-of-deep-rl)
 
 **Graph ML**
 
@@ -49,7 +52,6 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 **Others**
 
 - [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
-
 
 ---
 
@@ -78,7 +80,7 @@ A series of mini lectures covering various introductory topics in ML:
 - Precession vs. Recall
 - Statistical Significance
 - Clustering and K-means
-- Enbsemle models
+- Ensemble models
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
@@ -91,7 +93,7 @@ Covers the foundations of deep learning, how to build different neural networks(
 - Adversarial examples - GANs
 - Full-cycle of a Deep Learning Project
 - AI and Healthcare
-- Deep Learning Strategy 
+- Deep Learning Strategy
 - Interpretability of Neural Networks
 - Career Advice and Reading Research Papers
 - Deep Reinforcement Learning
@@ -127,10 +129,10 @@ The course serves as a basic introduction to machine learning and covers key con
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 
-## Introduction to Machine Learning (Munich) 
+## Introduction to Machine Learning (Munich)
 
 Covers many supervised machine learning concepts.
- 
+
 - Machine Learning Basics
 - Supervised Regression and Classification
 - Performance Evaluation
@@ -138,7 +140,7 @@ Covers many supervised machine learning concepts.
 - Information Theory
 - Linear and Nonlinear Support Vector Machine
 - Gaussian Processes
--  ...
+- ...
 
 🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(YouTube links are embedded within the chapters)
 
@@ -173,7 +175,6 @@ After finishing this course you will know:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
-
 
 ## Machine Learning with Graphs (Stanford)
 
@@ -257,7 +258,7 @@ To learn some of the advanced techniques in deep learning:
 
 ## Deep Learning (Tübingen)
 
-This course introduces the practical and theoretical principles of deep neural networks. 
+This course introduces the practical and theoretical principles of deep neural networks.
 
 - Computation graphs
 - Activation functions and loss functions
@@ -270,7 +271,8 @@ This course introduces the practical and theoretical principles of deep neural n
 
 ## CS224N: Natural Language Processing with Deep Learning
 
-To learn the latest approaches for deep leanring based NLP:
+To learn the latest approaches for deep learning based NLP:
+
 - Dependency parsing
 - Language models and RNNs
 - Question Answering
@@ -285,6 +287,7 @@ To learn the latest approaches for deep leanring based NLP:
 ## CMU Neural Networks for NLP
 
 To learn the latest neural network based techniques for NLP:
+
 - Language Modeling
 - Efficiency tricks
 - Conditioned Generation
@@ -298,7 +301,8 @@ To learn the latest neural network based techniques for NLP:
 ## CS224U: Natural Language Understanding
 
 To learn the latest concepts in natural language understanding:
-- Grounded Langugage Understanding
+
+- Grounded Language Understanding
 - Relation Extraction
 - Natural Language Inference (NLI)
 - NLU and Neural Information Extraction
@@ -310,6 +314,7 @@ To learn the latest concepts in natural language understanding:
 ## CMU Advanced NLP
 
 To learn:
+
 - Basics of modern NLP techniques
 - Multi-task, Multi-domain, multi-lingual learning
 - Prompting + Sequence-to-sequence pre-training
@@ -374,7 +379,7 @@ To learn modern methods for computer vision:
 - Understanding Neural Networks
 - RNN, Attention and ViTs
 - Generative Models
-- GPU Fundementals
+- GPU Fundamentals
 - Self-Supervision
 - Neural Rendering
 - Efficient Architectures
@@ -436,17 +441,16 @@ To learn full-stack production deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
 
-
 ## Introduction to Deep Learning and Deep Generative Models
 
-Covers the fundamental concepts of deep learning 
+Covers the fundamental concepts of deep learning
 
 - Single-layer neural networks and gradient descent
-- Multi-layer neura networks and backpropagation
+- Multi-layer neural networks and backpropagation
 - Convolutional neural networks for images
 - Recurrent neural networks for text
-- autoencoders, variational autoencoders, and generative adversarial networks
-- encoder-decoder recurrent neural networks and transformers
+- Autoencoders, variational autoencoders, and generative adversarial networks
+- Encoder-decoder recurrent neural networks and transformers
 - PyTorch code examples
 
 🔗 [Link to Course](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)  🔗 [Link to Materials](https://sebastianraschka.com/blog/2021/dl-course.html)
@@ -460,16 +464,43 @@ Covers the most dominant paradigms of self-driving cars: modular pipeline-based 
 - Vehicle modeling/control
 - Deep Learning
 - Imitation learning
-- Reinfocement learning
+- Reinforcement learning
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 
+## Reinforcement Learning (Polytechnique Montreal, Fall 2021)
+
+Designing autonomous decision making systems is one of the longstanding goals of Artificial Intelligence. Such decision making systems, if realized, can have a big impact in machine learning for robotics, game playing, control, health care to name a few. This course introduces Reinforcement Learning as a general framework to design such autonomous decision making systems.
+
+- Introduction to RL
+- Multi-armed bandits
+- Policy Gradient Methods
+- Contextual Bandits
+- Finite Markov Decision Process
+- Dynamic Programming
+- Policy Iteration, Value Iteration
+- Monte Carlo Methods
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)  🔗 [Link to Materials](https://chandar-lab.github.io/INF8953DE/)
+
+## Foundations of Deep RL
+
+A mini 6-lecture series by Pieter Abbeel.
+
+- MDPs, Exact Solution Methods, Max-ent RL
+- Deep Q-Learning
+- Policy Gradients and Advantage Estimation
+- TRPO and PPO
+- DDPG and SAC
+- Model-based RL
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
 
 ---
 
+Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
 
-Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions. 
+If you are interested to contribute, feel free to open a PR with a link to the course. It will take a bit of time, but I have plans to do many things with these individual lectures. We can summarize the lectures, include notes, provide additional reading material, include difficulty of content, etc.
 
-If you are interested to contribute, feel free to open a PR with a link to the course. It will take a bit of time, but I have plans to do many things with these individual lectures. We can summarize the lectures, include notes, provide additional reading material, include difficulty of content, etc. 
-
-You can now find ML Course notes [here](https://github.com/dair-ai/ML-Course-Notes). 
+You can now find ML Course notes [here](https://github.com/dair-ai/ML-Course-Notes).
