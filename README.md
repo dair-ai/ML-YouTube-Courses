@@ -25,7 +25,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 **NLP**
 
-- [NLP Course (Hugging Face)]()
+- [NLP Course (Hugging Face)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nlp-course-hugging-face)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
 - [CS224U: Natural Language Understanding](https://github.com/dair-ai/ML-YouTube-Courses#cs224u-natural-language-understanding)
@@ -281,6 +281,8 @@ Learn about different NLP concepts and how to apply language models and Transfor
 - Text embeddings and semantic search
 - Model evaluation
 - ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
 
 ## CS224N: Natural Language Processing with Deep Learning
 
