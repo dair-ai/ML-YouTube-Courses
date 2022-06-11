@@ -353,7 +353,9 @@ To learn the latest concepts for doing multilingual NLP:
 - Active Learning
 ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
+🔗 [Link to 2020 Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
+
+🔗 [Link to 2022 Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7)
 
 ## Advanced NLP
 
