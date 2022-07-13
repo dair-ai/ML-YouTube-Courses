@@ -26,6 +26,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 **NLP**
 
+- [Stanford CS25 - Transformers United]()
 - [NLP Course (Hugging Face)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nlp-course-hugging-face)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
@@ -283,6 +284,21 @@ This course introduces the practical and theoretical principles of deep neural n
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
+
+## Stanford CS25 - Transformers United
+
+This course consists of lectures focused on Transformers, providing a deep dive and their applications
+
+- Introduction to Transformers
+- Transformers in Language: GPT-3, Codex
+- Applications in Vision
+- Transformers in RL & Universal
+Compute Engines
+- Scaling transformers
+- Interpretability with transformers
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 ## NLP Course (Hugging Face)
 
