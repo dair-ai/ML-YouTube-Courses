@@ -26,7 +26,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 **NLP**
 
-- [Stanford CS25 - Transformers United]()
+- [Stanford CS25 - Transformers United](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs25---transformers-united)
 - [NLP Course (Hugging Face)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nlp-course-hugging-face)
 - [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
