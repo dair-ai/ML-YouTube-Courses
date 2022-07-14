@@ -14,7 +14,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 **Deep Learning**
 
-- [MIT 6.S192: Deep Learning for Art, Aesthetics, and Creativity](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#mit-6s192-deep-learning-for-art-aesthetics-and-creativity)
+- [MIT: Deep Learning for Art, Aesthetics, and Creativity](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#mit-6s192-deep-learning-for-art-aesthetics-and-creativity)
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
 - [Practical Deep Learning for Coders (2020)](https://github.com/dair-ai/ML-YouTube-Courses#practical-deep-learning-for-coders-2020)
 - [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
@@ -88,7 +88,7 @@ A series of mini lectures covering various introductory topics in ML:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 
-## MIT 6.S192: Deep Learning for Art, Aesthetics, and Creativity
+## MIT: Deep Learning for Art, Aesthetics, and Creativity
 
 Covers the application of deep learning for art, aesthetics, and creativty.
 
