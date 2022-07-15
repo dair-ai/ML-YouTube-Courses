@@ -59,6 +59,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 **Others**
 
 - [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
+- [Advanced Robotics (Berkely)](README.md#advanced-robotics-uc-berkely)
 
 ---
 
@@ -577,6 +578,19 @@ This is a graduate-level course covering different aspects of deep multi-task an
 - Open problems
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)  🔗 [Link to Materials](https://cs330.stanford.edu/)
+
+## Advanced Robotics: UC Berkely
+
+This is course is from Peter Abbeel and covers a review on reinforcement learning and continues to applications in robotics.
+
+- MDPs: Exact Methods
+- Discretization of Continuous State Space MDPs
+- Function Approximation / Feature-based Representations
+- LQR, iterative LQR / Differential Dynamic Programming
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)  🔗 [Link to Materials](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+
 ---
 
 Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
