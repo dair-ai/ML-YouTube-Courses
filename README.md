@@ -4,62 +4,62 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 **Machine Learning**
 
-- [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
-- [Making Friends with Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#making-friends-with-machine-learning)
-- [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
-- [Introduction to Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-machine-learning-Tübingen)
-- [Introduction to machine learning (Munich)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#Introduction-to-machine-learning-Munich)
-- [Statistical Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#statistical-machine-learning-Tübingen)
-- [Probabilistic Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#probabilistic-machine-learning)
+- [Stanford CS229: Machine Learning](#stanford-cs229-machine-learning)
+- [Making Friends with Machine Learning](#making-friends-with-machine-learning)
+- [Applied Machine Learning](#applied-machine-learning)
+- [Introduction to Machine Learning (Tübingen)](#introduction-to-machine-learning-Tübingen)
+- [Introduction to machine learning (Munich)](#Introduction-to-machine-learning-Munich)
+- [Statistical Machine Learning (Tübingen)](#statistical-machine-learning-Tübingen)
+- [Probabilistic Machine Learning](#probabilistic-machine-learning)
 
 **Deep Learning**
 
 - [MIT: Deep Learning for Art, Aesthetics, and Creativity](#mit-deep-learning-for-art-aesthetics-and-creativity)
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
-- [Practical Deep Learning for Coders (2020)](https://github.com/dair-ai/ML-YouTube-Courses#practical-deep-learning-for-coders-2020)
-- [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
-- [Deep Learning: CS 182](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-cs-182)
-- [Deep Unsupervised Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-unsupervised-learning)
-- [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
-- [Deep Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-Tübingen)
-- [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
+- [Practical Deep Learning for Coders (2020)](#practical-deep-learning-for-coders-2020)
+- [Introduction to Deep Learning (MIT)](#introduction-to-deep-learning)
+- [Deep Learning: CS 182](#deep-learning-cs-182)
+- [Deep Unsupervised Learning](#deep-unsupervised-learning)
+- [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
+- [Deep Learning (Tübingen)](#deep-learning-Tübingen)
+- [Full Stack Deep Learning](#full-stack-deep-learning)
 
 **NLP**
 
 - [Stanford CS25 - Transformers United](#stanford-cs25---transformers-united)
-- [NLP Course (Hugging Face)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nlp-course-hugging-face)
-- [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
-- [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
-- [CS224U: Natural Language Understanding](https://github.com/dair-ai/ML-YouTube-Courses#cs224u-natural-language-understanding)
-- [CMU Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-advanced-nlp)
-- [Multilingual NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#multilingual-nlp)
-- [Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#advanced-nlp)
+- [NLP Course (Hugging Face)](#nlp-course-hugging-face)
+- [CS224N: Natural Language Processing with Deep Learning](#cs224n-natural-language-processing-with-deep-learning)
+- [CMU Neural Networks for NLP](#cmu-neural-networks-for-nlp)
+- [CS224U: Natural Language Understanding](#cs224u-natural-language-understanding)
+- [CMU Advanced NLP](#cmu-advanced-nlp)
+- [Multilingual NLP](#multilingual-nlp)
+- [Advanced NLP](#advanced-nlp)
 
 **Computer Vision**
 
-- [Deep Learning for Computer Vision](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision)
-- [Deep Learning for Computer Vision (DL4CV)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision-dl4cv)
+- [Deep Learning for Computer Vision](#deep-learning-for-computer-vision)
+- [Deep Learning for Computer Vision (DL4CV)](#deep-learning-for-computer-vision-dl4cv)
 
 **Reinforcement Learning**
 
-- [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
-- [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-lecture-series-deepmind)
-- [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-polytechnique-montreal-fall-2021)
-- [Foundations of Deep RL](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#foundations-of-deep-rl)
-- [Stanford CS234: Reinforcement Learning](README.md#stanford-cs234-reinforcement-learning)
+- [Deep Reinforcement Learning](#deep-reinforcement-learning)
+- [Reinforcement Learning Lecture Series (DeepMind)](#reinforcement-learning-lecture-series-deepmind)
+- [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](#reinforcement-learning-polytechnique-montreal-fall-2021)
+- [Foundations of Deep RL](#foundations-of-deep-rl)
+- [Stanford CS234: Reinforcement Learning](#stanford-cs234-reinforcement-learning)
 
 **Graph ML**
 
-- [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
-- [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
+- [Machine Learning with Graphs (Stanford)](#machine-learning-with-graphs-stanford)
+- [AMMI Geometric Deep Learning Course (2021)](#ammi-geometric-deep-learning-course-2021)
 
 **Multi-Task Learning**
-- [Multi-Task and Meta-Learning (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses#stanford-cs330-deep-multi-task-and-meta-learning)
+- [Multi-Task and Meta-Learning (Stanford)](#stanford-cs330-deep-multi-task-and-meta-learning)
 
 **Others**
 
-- [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
-- [Advanced Robotics (Berkely)](README.md#advanced-robotics-uc-berkely)
+- [Self-Driving Cars (Tübingen)](#self-driving-cars-Tübingen)
+- [Advanced Robotics (Berkely)](#advanced-robotics-uc-berkely)
 
 ---
 
