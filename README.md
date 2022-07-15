@@ -14,7 +14,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 **Deep Learning**
 
-- [MIT: Deep Learning for Art, Aesthetics, and Creativity](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#mit-deep-learning-for-art-aesthetics-and-creativity)
+- [MIT: Deep Learning for Art, Aesthetics, and Creativity](#mit-deep-learning-for-art-aesthetics-and-creativity)
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
 - [Practical Deep Learning for Coders (2020)](https://github.com/dair-ai/ML-YouTube-Courses#practical-deep-learning-for-coders-2020)
 - [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
