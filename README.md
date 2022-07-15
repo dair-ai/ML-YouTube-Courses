@@ -54,7 +54,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
 
 **Multi-Task Learning**
-- [Multi-Task and Meta-Learning (Stanford)](README.md#stanford-cs330-deep-multi-task-and-meta-learning)
+- [Multi-Task and Meta-Learning (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses#stanford-cs330-deep-multi-task-and-meta-learning)
 
 **Others**
 
