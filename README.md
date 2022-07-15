@@ -46,15 +46,20 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-lecture-series-deepmind)
 - [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-polytechnique-montreal-fall-2021)
 - [Foundations of Deep RL](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#foundations-of-deep-rl)
+- [Stanford CS234: Reinforcement Learning](README.md#stanford-cs234-reinforcement-learning)
 
 **Graph ML**
 
 - [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
 - [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
 
+**Multi-Task Learning**
+- [Multi-Task and Meta-Learning (Stanford)](README.md#stanford-cs330-deep-multi-task-and-meta-learning)
+
 **Others**
 
 - [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
+- [Advanced Robotics (Berkely)](README.md#advanced-robotics-uc-berkely)
 
 ---
 
@@ -543,6 +548,48 @@ A mini 6-lecture series by Pieter Abbeel.
 - Model-based RL
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
+
+
+## Stanford CS234: Reinforcement Learning
+
+Covers topics from basic concepts of Reinforcement Learning to more advanced ones:
+
+- Markov decision processes & planning
+- Model-free policy evaluation
+- Model-free control
+- Reinforcement learning with function approximation & Deep RL
+- Policy Search
+- Exploration
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)  🔗 [Link to Materials](https://web.stanford.edu/class/cs234/)
+
+## Stanford CS330: Deep Multi-Task and Meta Learning
+
+This is a graduate-level course covering different aspects of deep multi-task and meta learning.
+
+- Multi-task learning, transfer learning basics 
+- Meta-learning algorithms 
+- Advanced meta-learning topics 
+- Multi-task RL, goal-conditioned RL
+- Meta-reinforcement learning 
+- Hierarchical RL
+- Lifelong learning
+- Open problems
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)  🔗 [Link to Materials](https://cs330.stanford.edu/)
+
+## Advanced Robotics: UC Berkely
+
+This is course is from Peter Abbeel and covers a review on reinforcement learning and continues to applications in robotics.
+
+- MDPs: Exact Methods
+- Discretization of Continuous State Space MDPs
+- Function Approximation / Feature-based Representations
+- LQR, iterative LQR / Differential Dynamic Programming
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)  🔗 [Link to Materials](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
 ---
 
