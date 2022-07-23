@@ -577,7 +577,7 @@ This is a graduate-level course covering different aspects of deep multi-task an
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)  🔗 [Link to Materials](https://cs330.stanford.edu/)
 
-## Advanced Robotics: UC Berkely
+## Advanced Robotics: UC Berkeley
 
 This is course is from Peter Abbeel and covers a review on reinforcement learning and continues to applications in robotics.
 
