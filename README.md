@@ -16,7 +16,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 - [MIT: Deep Learning for Art, Aesthetics, and Creativity](#mit-deep-learning-for-art-aesthetics-and-creativity)
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
-- [Practical Deep Learning for Coders (2020)](#practical-deep-learning-for-coders-2020)
+- [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
 - [Introduction to Deep Learning (MIT)](#introduction-to-deep-learning)
 - [Deep Learning: CS 182](#deep-learning-cs-182)
 - [Deep Unsupervised Learning](#deep-unsupervised-learning)
@@ -183,19 +183,17 @@ The course covers the standard paradigms and algorithms in statistical machine l
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 
-## Practical Deep Learning for Coders (2020)
+## Practical Deep Learning for Coders
 
-After finishing this course you will know:
+This course covers topics such as how to:
 
-- How to train models that achieve state-of-the-art results
-- How to turn your models into web applications, and deploy them
-- Why and how deep learning models work, and how to use that knowledge to improve the accuracy, speed, and reliability of your models
-- The latest deep learning techniques that really matter in practice
-- How to implement stochastic gradient descent and a complete training loop from scratch
-- How to think about the ethical implications of your work, to help ensure that you're making the world a better place and that your work isn't misused for harm
+- Build and train deep learning models for computer vision, natural language processing, tabular analysis, and collaborative filtering problems
+- Create random forests and regression models
+- Deploy models
+- Use PyTorch, the world’s fastest growing deep learning software, plus popular libraries like fastai and Hugging Face
 ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
 
 ## Machine Learning with Graphs (Stanford)
 
