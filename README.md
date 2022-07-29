@@ -51,7 +51,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 **Graph ML**
 
 - [Machine Learning with Graphs (Stanford)](#machine-learning-with-graphs-stanford)
-- [AMMI Geometric Deep Learning Course (2021)](#ammi-geometric-deep-learning-course-2021)
+- [AMMI Geometric Deep Learning Course](#ammi-geometric-deep-learning-course)
 
 **Multi-Task Learning**
 - [Multi-Task and Meta-Learning (Stanford)](#stanford-cs330-deep-multi-task-and-meta-learning)
@@ -436,7 +436,7 @@ To learn modern methods for computer vision:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
 
-## AMMI Geometric Deep Learning Course (2021)
+## AMMI Geometric Deep Learning Course
 
 To learn about concepts in geometric deep learning:
 
@@ -447,7 +447,7 @@ To learn about concepts in geometric deep learning:
 - Sequences and Time Warping
 ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
 
 ## Deep Reinforcement Learning
 
