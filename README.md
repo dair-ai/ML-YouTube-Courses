@@ -36,7 +36,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Advanced NLP](#advanced-nlp)
 
 **Computer Vision**
-
+- [CS231N: Convolutional Neural Networks for Visual Recognition](#cs231n-convolutional-neural-networks-for-visual-recognition)
 - [Deep Learning for Computer Vision](#deep-learning-for-computer-vision)
 - [Deep Learning for Computer Vision (DL4CV)](#deep-learning-for-computer-vision-dl4cv)
 
@@ -405,6 +405,25 @@ To learn advanced concepts in NLP:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
+
+## CS231N: Convolutional Neural Networks for Visual Recognition
+
+Stanford's Famous CS231n course. The videos are only available for the Spring 2017 semester. The course is currently known as Deep Learning for Computer Vision, but the Spring 2017 version is titled Convolutional Neural Networks for Visual Recognition.
+
+- Image Classification
+- Loss Functions and Optimization
+- Introduction to Neural Networks
+- Convolutional Neural Networks
+- Training Neural Networks
+- Deep Learning Software
+- CNN Architectures
+- Recurrent Neural Networks
+- Detection and Segmentation
+- Visualizing and Understanding
+- Generative Models
+- Deep Reinforcement Learning
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) 🔗 [Link to Materials](http://cs231n.stanford.edu/2017/)
 
 ## Deep Learning for Computer Vision
 
