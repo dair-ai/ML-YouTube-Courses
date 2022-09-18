@@ -21,7 +21,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Deep Learning: CS 182](#deep-learning-cs-182)
 - [Deep Unsupervised Learning](#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
-- [Foundation Models]()
+- [Foundation Models](#foundation-models)
 - [Deep Learning (Tübingen)](#deep-learning-Tübingen)
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 
