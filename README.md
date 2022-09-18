@@ -21,7 +21,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Deep Learning: CS 182](#deep-learning-cs-182)
 - [Deep Unsupervised Learning](#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
-- [Foundation Models](#foundation-models)
+- [Foundation Models](#foundation-models) 🆕
 - [Deep Learning (Tübingen)](#deep-learning-Tübingen)
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 
@@ -32,7 +32,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [CS224N: Natural Language Processing with Deep Learning](#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](#cmu-neural-networks-for-nlp)
 - [CS224U: Natural Language Understanding](#cs224u-natural-language-understanding)
-- [CMU Advanced NLP 2021/2022](#cmu-advanced-nlp)
+- [CMU Advanced NLP 2021/2022](#cmu-advanced-nlp) 🆕
 - [Multilingual NLP](#multilingual-nlp)
 - [Advanced NLP](#advanced-nlp)
 
