@@ -21,6 +21,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Deep Learning: CS 182](#deep-learning-cs-182)
 - [Deep Unsupervised Learning](#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
+- [Foundation Models]()
 - [Deep Learning (Tübingen)](#deep-learning-Tübingen)
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 
@@ -31,7 +32,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [CS224N: Natural Language Processing with Deep Learning](#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](#cmu-neural-networks-for-nlp)
 - [CS224U: Natural Language Understanding](#cs224u-natural-language-understanding)
-- [CMU Advanced NLP](#cmu-advanced-nlp)
+- [CMU Advanced NLP 2021/2022](#cmu-advanced-nlp)
 - [Multilingual NLP](#multilingual-nlp)
 - [Advanced NLP](#advanced-nlp)
 
@@ -275,6 +276,12 @@ To learn some of the advanced techniques in deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 
+## Foundation Models
+
+To learn about foundation models like GPT-3, CLIP, Flamingo, Codex, and DINO.
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL9t0xVFP90GD8hox0KipBkJcLX_C3ja67)
+
 ## Deep Learning (Tübingen)
 
 This course introduces the practical and theoretical principles of deep neural networks.
@@ -371,7 +378,9 @@ To learn:
 - Adversarial learning
 ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+🔗 [Link to 2021 Edition](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+
+🔗 [Link to 2022 Edition](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
 
 ## Multilingual NLP
 
