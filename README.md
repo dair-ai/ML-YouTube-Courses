@@ -192,9 +192,12 @@ This course covers topics such as how to:
 - Create random forests and regression models
 - Deploy models
 - Use PyTorch, the world’s fastest growing deep learning software, plus popular libraries like fastai and Hugging Face
+- Foundations and Deep Dive to Diffusion Models
 ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+🔗 [Link to Course - Part 1](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+
+🔗 [Link to Course - Part 2](https://www.youtube.com/watch?v=_7rMfsA24Ls&ab_channel=JeremyHoward)
 
 ## Machine Learning with Graphs (Stanford)
 
