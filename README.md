@@ -8,7 +8,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Making Friends with Machine Learning](#making-friends-with-machine-learning)
 - [Applied Machine Learning](#applied-machine-learning)
 - [Introduction to Machine Learning (Tübingen)](#introduction-to-machine-learning-Tübingen)
-- [Introduction to machine learning (Munich)](#Introduction-to-machine-learning-Munich)
+- [Machine Learning Lecture (Stefan Harmeling)]()
 - [Statistical Machine Learning (Tübingen)](#statistical-machine-learning-Tübingen)
 - [Probabilistic Machine Learning](#probabilistic-machine-learning)
 
@@ -151,20 +151,21 @@ The course serves as a basic introduction to machine learning and covers key con
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 
-## Introduction to Machine Learning (Munich)
+## Machine Learning Lecture (Stefan Harmeling)
 
-Covers many supervised machine learning concepts.
+Covers many fundamental ML concepts:
 
-- Machine Learning Basics
-- Supervised Regression and Classification
-- Performance Evaluation
-- Classification and Regression Trees (CART)
-- Information Theory
-- Linear and Nonlinear Support Vector Machine
+- Bayes rule
+- From logic to probabilities
+- Distributions
+- Matrix Differential Calculus
+- PCA
+- K-means and EM
+- Causality
 - Gaussian Processes
 - ...
 
-🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(YouTube links are embedded within the chapters)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLzrCXlf6ypbxS5OYOY3EN_0u2fDuIT6Gt)
 
 ## Statistical Machine Learning (Tübingen)
 
