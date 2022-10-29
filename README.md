@@ -8,7 +8,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Making Friends with Machine Learning](#making-friends-with-machine-learning)
 - [Applied Machine Learning](#applied-machine-learning)
 - [Introduction to Machine Learning (Tübingen)](#introduction-to-machine-learning-Tübingen)
-- [Machine Learning Lecture (Stefan Harmeling)]()
+- [Machine Learning Lecture (Stefan Harmeling)](#machine-learning-lecture-stefan-harmeling)
 - [Statistical Machine Learning (Tübingen)](#statistical-machine-learning-Tübingen)
 - [Probabilistic Machine Learning](#probabilistic-machine-learning)
 
