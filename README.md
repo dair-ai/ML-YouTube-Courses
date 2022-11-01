@@ -96,11 +96,11 @@ A series of mini lectures covering various introductory topics in ML:
 
 ## MIT: Deep Learning for Art, Aesthetics, and Creativity
 
-Covers the application of deep learning for art, aesthetics, and creativty.
+Covers the application of deep learning for art, aesthetics, and creativity.
 
 - Nostalgia -> Art -> Creativity -> Evolution as Data + Direction
 - Efficient GANs
-- Explorations in AI for Creatvity
+- Explorations in AI for Creativity
 - Neural Abstractions
 - Easy 3D Content Creation with Consistent Neural Fields
 ...
