@@ -611,6 +611,27 @@ This is a graduate-level course covering different aspects of deep multi-task an
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)  🔗 [Link to Materials](https://cs330.stanford.edu/)
 
+## MIT Deep Learning in Life Sciences
+
+A course introducing foundations of ML for applications in genomics and the life sciences more broadly.
+
+- Interpreting ML Models
+- DNA Accessibility, Promoters and Enhancers
+- Chromatin and gene regulation
+- Gene Expression, Splicing
+- RNA-seq, Splicing
+- Single cell RNA-sequencing
+- Dimensionality Reduction, Genetics, and Variation
+- Drug Discovery
+- Protein Structure Prediction
+- Protein Folding
+- Imaging and Cancer
+- Neuroscience
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB)
+
+🔗 [Link to Materials](https://mit6874.github.io/)
+
 ## Advanced Robotics: UC Berkeley
 
 This is course is from Peter Abbeel and covers a review on reinforcement learning and continues to applications in robotics.
