@@ -63,7 +63,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 - [MIT Deep Learning in Life Sciences](#mit-deep-learning-in-life-sciences)
 - [Self-Driving Cars (Tübingen)](#self-driving-cars-Tübingen)
-- [Advanced Robotics (Berkely)](#advanced-robotics-uc-berkely)
+- [Advanced Robotics (Berkeley)](#advanced-robotics-uc-berkeley)
 
 ---
 
@@ -146,7 +146,7 @@ To learn some of the most widely used techniques in ML:
 - Monte Carlo Estimation
 - Maximum Likelihood Learning
 - Nearest Neighbours
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
@@ -161,7 +161,7 @@ The course serves as a basic introduction to machine learning and covers key con
 - Neural networks
 - PCA
 - Clustering
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 
@@ -195,7 +195,7 @@ The course covers the standard paradigms and algorithms in statistical machine l
 - Boosting
 - PCA
 - Clustering
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 
@@ -208,7 +208,7 @@ This course covers topics such as how to:
 - Deploy models
 - Use PyTorch, the world’s fastest growing deep learning software, plus popular libraries like fastai and Hugging Face
 - Foundations and Deep Dive to Diffusion Models
-...
+- ...
 
 🔗 [Link to Course - Part 1](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
 
@@ -224,7 +224,7 @@ To learn some of the latest graph techniques in machine learning:
 - Graph Neural Networks
 - Knowledge Graphs
 - Deep Generative Models for Graphs
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
@@ -239,7 +239,7 @@ To learn the probabilistic paradigm of ML:
 - Gaussian Distributions
 - Graphical Models
 - Tuning Inference Algorithms
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 
@@ -263,7 +263,7 @@ To learn some of the widely used techniques in deep learning:
 - Batch Normalization
 - Style transfer
 - Imitation Learning
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
@@ -277,7 +277,7 @@ To learn the latest and most widely used techniques in deep unsupervised learnin
 - Self-supervised learning
 - Implicit Models
 - Compression
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
@@ -290,7 +290,7 @@ To learn some of the advanced techniques in deep learning:
 - Unsupervised Learning
 - Generative Adversarial Networks
 - Autoencoders
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 
@@ -309,7 +309,7 @@ This course introduces the practical and theoretical principles of deep neural n
 - Training, regularization and data augmentation
 - Basic and state-of-the-art deep neural network architectures including convolutional networks and graph neural networks
 - Deep generative models such as auto-encoders, variational auto-encoders and generative adversarial networks
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
 
@@ -324,7 +324,7 @@ This course consists of lectures focused on Transformers, providing a deep dive 
 Compute Engines
 - Scaling transformers
 - Interpretability with transformers
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
@@ -353,7 +353,7 @@ To learn the latest approaches for deep learning based NLP:
 - Natural Language Generation
 - T5 and Large Language Models
 - Future of NLP
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
@@ -367,7 +367,7 @@ To learn the latest neural network based techniques for NLP:
 - Structured Prediction
 - Model Interpretation
 - Advanced Search Algorithms
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 
@@ -380,7 +380,7 @@ To learn the latest concepts in natural language understanding:
 - Natural Language Inference (NLI)
 - NLU and Neural Information Extraction
 - Adversarial testing
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
 
@@ -394,7 +394,7 @@ To learn:
 - Interpreting and Debugging NLP Models
 - Learning from Knowledge-bases
 - Adversarial learning
-...
+- ...
 
 🔗 [Link to 2021 Edition](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
 
@@ -411,7 +411,7 @@ To learn the latest concepts for doing multilingual NLP:
 - Data Augmentation for MT
 - Low Resource ASR
 - Active Learning
-...
+- ...
 
 🔗 [Link to 2020 Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
 
@@ -429,7 +429,7 @@ To learn advanced concepts in NLP:
 - Vision + Language
 - Ethics in NLP
 - Commonsense Reasoning
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
 
@@ -462,7 +462,7 @@ To learn some of the fundamental concepts in CV:
 - Attention Networks
 - Detection and Segmentation
 - Generative Models
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
@@ -491,7 +491,7 @@ To learn about concepts in geometric deep learning:
 - Grids
 - Manifolds and Meshes
 - Sequences and Time Warping
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
 
@@ -505,7 +505,7 @@ To learn the latest concepts in deep RL:
 - Supervised learning of behaviors
 - Deep imitation learning
 - Cost functions and reward functions
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
@@ -517,7 +517,7 @@ The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL
 - Dynamic Programming
 - Model-free algorithms
 - Deep reinforcement learning
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
@@ -533,7 +533,7 @@ To learn full-stack production deep learning:
 - Data Labeling
 - Monitoring ML Models
 - Web deployment
-...
+- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
 
