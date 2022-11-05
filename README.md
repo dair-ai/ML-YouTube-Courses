@@ -60,7 +60,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 **Others**
 
-- [MIT Deep Learning in Life Sciences]()
+- [MIT Deep Learning in Life Sciences](#mit-deep-learning-in-life-sciences)
 - [Self-Driving Cars (Tübingen)](#self-driving-cars-Tübingen)
 - [Advanced Robotics (Berkely)](#advanced-robotics-uc-berkely)
 
