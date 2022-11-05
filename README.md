@@ -55,10 +55,12 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [AMMI Geometric Deep Learning Course](#ammi-geometric-deep-learning-course)
 
 **Multi-Task Learning**
+
 - [Multi-Task and Meta-Learning (Stanford)](#stanford-cs330-deep-multi-task-and-meta-learning)
 
 **Others**
 
+- [MIT Deep Learning in Life Sciences]()
 - [Self-Driving Cars (Tübingen)](#self-driving-cars-Tübingen)
 - [Advanced Robotics (Berkely)](#advanced-robotics-uc-berkely)
 
