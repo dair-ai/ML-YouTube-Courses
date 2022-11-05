@@ -14,7 +14,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 **Deep Learning**
 
-- [Neural Networks: Zero to Hero]()
+- [Neural Networks: Zero to Hero](#neural-networks-zero-to-hero-by-andrej-karpathy)
 - [MIT: Deep Learning for Art, Aesthetics, and Creativity](#mit-deep-learning-for-art-aesthetics-and-creativity)
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
@@ -106,7 +106,7 @@ Course providing an in-depth overview of neural networks.
 - Activation and Gradients
 - Becoming a Backprop Ninja
 
-🔗 [Link to Course] (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 ## MIT: Deep Learning for Art, Aesthetics, and Creativity
 
