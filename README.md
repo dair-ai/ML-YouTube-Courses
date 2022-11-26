@@ -19,6 +19,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
 - [Introduction to Deep Learning (MIT)](#introduction-to-deep-learning)
+- [CMU Introduction to Deep Learning (11-785)](#cmu-introduction-to-deep-learning-11-785)
 - [Deep Learning: CS 182](#deep-learning-cs-182)
 - [Deep Unsupervised Learning](#deep-unsupervised-learning)
 - [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
@@ -250,6 +251,15 @@ To learn some of the fundamentals of deep learning:
 - Introduction to Deep Learning
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+## CMU Introduction to Deep Learning (11-785)
+
+The course starts off gradually from MLPs (Multi Layer Perceptrons) and then progresses into concepts like attention
+and sequence-to-sequence models.
+
+🔗 [Link to Course](https://deeplearning.cs.cmu.edu/F22/index.html) \
+🔗 [Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9) \
+🔗 [Tutorials/Recitations](https://www.youtube.com/playlist?list=PLp-0K3kfddPz8WXg8RqH0sEN6X2L65HUZ)
 
 ## Deep Learning: CS 182
 
