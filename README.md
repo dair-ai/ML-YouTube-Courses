@@ -17,7 +17,6 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Neural Networks: Zero to Hero](#neural-networks-zero-to-hero-by-andrej-karpathy)
 - [MIT: Deep Learning for Art, Aesthetics, and Creativity](#mit-deep-learning-for-art-aesthetics-and-creativity)
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
-- [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
 - [Introduction to Deep Learning (MIT)](#introduction-to-deep-learning)
 - [CMU Introduction to Deep Learning (11-785)](#cmu-introduction-to-deep-learning-11-785)
 - [Deep Learning: CS 182](#deep-learning-cs-182)
@@ -25,7 +24,12 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
 - [Foundation Models](#foundation-models) 🆕
 - [Deep Learning (Tübingen)](#deep-learning-Tübingen)
+
+**Practical ML**
+
 - [Full Stack Deep Learning](#full-stack-deep-learning)
+- [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
+- [Stanford MLSys Seminars]()
 
 **NLP**
 
@@ -214,6 +218,13 @@ This course covers topics such as how to:
 🔗 [Link to Course - Part 1](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
 
 🔗 [Link to Course - Part 2](https://www.youtube.com/watch?v=_7rMfsA24Ls&ab_channel=JeremyHoward)
+
+## Stanford MLSys Seminars
+
+A seminar series on all sorts of topics related to building machine learning systems.
+
+🔗 [Link to Lectures](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+
 
 ## Machine Learning with Graphs (Stanford)
 
