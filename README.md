@@ -29,7 +29,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
-- [Stanford MLSys Seminars]()
+- [Stanford MLSys Seminars](#stanford-mlsys-seminars)
 
 **NLP**
 
