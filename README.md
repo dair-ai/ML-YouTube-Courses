@@ -30,7 +30,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
 - [Stanford MLSys Seminars](#stanford-mlsys-seminars)
-- [Machine Learning Engineering for Production (MLOps)]()
+- [Machine Learning Engineering for Production (MLOps)](#machine-learning-engineering-for-production-mlops)
 
 **NLP**
 
