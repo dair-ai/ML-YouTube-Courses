@@ -30,6 +30,7 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
 - [Stanford MLSys Seminars](#stanford-mlsys-seminars)
+- [Machine Learning Engineering for Production (MLOps)]()
 
 **NLP**
 
@@ -225,6 +226,11 @@ A seminar series on all sorts of topics related to building machine learning sys
 
 🔗 [Link to Lectures](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
 
+## Machine Learning Engineering for Production (MLOps)
+
+Specialization course on MLOPs by Andrew Ng.
+
+🔗 [Link to Lectures](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
 
 ## Machine Learning with Graphs (Stanford)
 
