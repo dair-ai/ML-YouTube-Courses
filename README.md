@@ -24,6 +24,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we regularly index and org
 - [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
 - [Foundation Models](#foundation-models) 🆕
 - [Deep Learning (Tübingen)](#deep-learning-Tübingen)
+- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 
 **Practical ML**
 
