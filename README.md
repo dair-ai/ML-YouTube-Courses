@@ -26,14 +26,18 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [Deep Learning (Tübingen)](#deep-learning-Tübingen)
 - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 
-**Practical ML**
+**Scientific Machine Learning**
+
+- [Parallel Computing and Scientific Machine Learning](#parallel-computing-and-scientific-machine-learning)
+
+**Practical Machine Learning**
 
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
 - [Stanford MLSys Seminars](#stanford-mlsys-seminars)
 - [Machine Learning Engineering for Production (MLOps)](#machine-learning-engineering-for-production-mlops)
 
-**NLP**
+**Natural Language Processing**
 
 - [Stanford CS25 - Transformers United](#stanford-cs25---transformers-united)
 - [NLP Course (Hugging Face)](#nlp-course-hugging-face)
@@ -57,7 +61,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [Foundations of Deep RL](#foundations-of-deep-rl)
 - [Stanford CS234: Reinforcement Learning](#stanford-cs234-reinforcement-learning)
 
-**Graph ML**
+**Graph Machine Learning**
 
 - [Machine Learning with Graphs (Stanford)](#machine-learning-with-graphs-stanford)
 - [AMMI Geometric Deep Learning Course](#ammi-geometric-deep-learning-course)
@@ -340,6 +344,19 @@ This course introduces the practical and theoretical principles of deep neural n
 - ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
+
+## Parallel Computing and Scientific Machine Learning 
+
+- The Basics of Scientific Simulators 
+- Introduction to Parallel Computing 
+- Continuous Dynamics 
+- Inverse Problems and Differentiable Programming
+- Distributed Parallel Computing
+- Physics-Informed Neural Networks and Neural Differential Equations
+- Probabilistic Programming, AKA Bayesian Estimation on Programs
+- Globalizing the Understanding of Models
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
 
 ## Stanford CS25 - Transformers United
 
