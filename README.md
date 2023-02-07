@@ -11,7 +11,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [Machine Learning Lecture (Stefan Harmeling)](#machine-learning-lecture-stefan-harmeling)
 - [Statistical Machine Learning (Tübingen)](#statistical-machine-learning-Tübingen)
 - [Probabilistic Machine Learning](#probabilistic-machine-learning)
-- [MIT 6.S897: Machine Learning for Healthcare (2019)](#MIT-6.S897-Machine-Learning-for-Healthcare-2019)
+- [MIT 6.S897: Machine Learning for Healthcare (2019)](#mit-6s897-machine-learning-for-healthcare-2019)
 
 **Deep Learning**
 
