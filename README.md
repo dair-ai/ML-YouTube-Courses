@@ -11,6 +11,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [Machine Learning Lecture (Stefan Harmeling)](#machine-learning-lecture-stefan-harmeling)
 - [Statistical Machine Learning (Tübingen)](#statistical-machine-learning-Tübingen)
 - [Probabilistic Machine Learning](#probabilistic-machine-learning)
+- [MIT 6.S897: Machine Learning for Healthcare (2019)](#MIT-6.S897-Machine-Learning-for-Healthcare-2019)
 
 **Deep Learning**
 
@@ -49,6 +50,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [Advanced NLP](#advanced-nlp)
 
 **Computer Vision**
+
 - [CS231N: Convolutional Neural Networks for Visual Recognition](#cs231n-convolutional-neural-networks-for-visual-recognition)
 - [Deep Learning for Computer Vision](#deep-learning-for-computer-vision)
 - [Deep Learning for Computer Vision (DL4CV)](#deep-learning-for-computer-vision-dl4cv)
@@ -264,7 +266,11 @@ To learn the probabilistic paradigm of ML:
 - Tuning Inference Algorithms
 - ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+## MIT 6.S897: Machine Learning for Healthcare (2019)
+
+This course introduces students to machine learning in healthcare, including the nature of clinical data and the use of machine learning for risk stratification, disease progression modeling, precision medicine, diagnosis, subtype discovery, and improving clinical workflows.
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 
 ## Introduction to Deep Learning
 
