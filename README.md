@@ -37,6 +37,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
 - [Stanford MLSys Seminars](#stanford-mlsys-seminars)
 - [Machine Learning Engineering for Production (MLOps)](#machine-learning-engineering-for-production-mlops)
+- [MIT Introduction to Data-Centric AI](#mit-introduction-to-data-centric-ai)
 
 **Natural Language Processing**
 
@@ -238,6 +239,23 @@ A seminar series on all sorts of topics related to building machine learning sys
 Specialization course on MLOPs by Andrew Ng.
 
 🔗 [Link to Lectures](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
+
+## MIT Introduction to Data-Centric AI
+
+Covers the emerging science of Data-Centric AI (DCAI) that studies techniques to improve datasets, which is often the best way to improve performance in practical ML applications. Topics include:
+
+- Data-Centric AI vs. Model-Centric AI
+- Label Errors
+- Dataset Creation and Curation
+- Data-centric Evaluation of ML Models
+- Class Imbalance, Outliers, and Distribution Shift
+- ...
+
+🔗 [Course Website](https://dcai.csail.mit.edu/)
+
+🔗 [Lecture Videos](https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5)
+
+🔗 [Lab Assignments](https://github.com/dcai-course/dcai-lab)
 
 ## Machine Learning with Graphs (Stanford)
 
