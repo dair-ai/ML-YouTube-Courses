@@ -4,6 +4,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Machine Learning**
 
+- [Caltech CS156: Learning from Data](#caltech-cs156-learning-from-data)
 - [Stanford CS229: Machine Learning](#stanford-cs229-machine-learning)
 - [Making Friends with Machine Learning](#making-friends-with-machine-learning)
 - [Applied Machine Learning](#applied-machine-learning)
@@ -80,6 +81,31 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [Advanced Robotics (Berkeley)](#advanced-robotics-uc-berkeley)
 
 ---
+
+## Caltech CS156: Learning from Data
+
+An introductory course in machine learning that covers the basic theory, algorithms, and applications.
+
+- Lecture 1: The Learning Problem
+- Lecture 2: Is Learning Feasible?
+- Lecture 3: The Linear Model I
+- Lecture 4: Error and Noise
+- Lecture 5: Training versus Testing
+- Lecture 6: Theory of Generalization
+- Lecture 7: The VC Dimension
+- Lecture 8: Bias-Variance Tradeoff
+- Lecture 9: The Linear Model II
+- Lecture 10: Neural Networks
+- Lecture 11: Overfitting
+- Lecture 12: Regularization
+- Lecture 13: Validation
+- Lecture 14: Support Vector Machines
+- Lecture 15: Kernel Methods
+- Lecture 16: Radial Basis Functions
+- Lecture 17: Three Learning Principles
+- Lecture 18: Epilogue
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
 ## Stanford CS229: Machine Learning
 
