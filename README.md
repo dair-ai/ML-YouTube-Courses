@@ -119,7 +119,7 @@ To learn some of the basics of ML:
 - Decision Trees
 - Introduction to Neural Networks
 - Debugging ML Models
-...
+  ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
@@ -133,7 +133,7 @@ A series of mini lectures covering various introductory topics in ML:
 - Statistical Significance
 - Clustering and K-means
 - Ensemble models
-...
+  ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 
@@ -157,7 +157,7 @@ Covers the application of deep learning for art, aesthetics, and creativity.
 - Explorations in AI for Creativity
 - Neural Abstractions
 - Easy 3D Content Creation with Consistent Neural Fields
-...
+  ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
 
@@ -309,6 +309,7 @@ To learn the probabilistic paradigm of ML:
 - Graphical Models
 - Tuning Inference Algorithms
 - ...
+  🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
 
 ## MIT 6.S897: Machine Learning for Healthcare (2019)
 
@@ -395,11 +396,11 @@ This course introduces the practical and theoretical principles of deep neural n
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
 
-## Parallel Computing and Scientific Machine Learning 
+## Parallel Computing and Scientific Machine Learning
 
-- The Basics of Scientific Simulators 
-- Introduction to Parallel Computing 
-- Continuous Dynamics 
+- The Basics of Scientific Simulators
+- Introduction to Parallel Computing
+- Continuous Dynamics
 - Inverse Problems and Differentiable Programming
 - Distributed Parallel Computing
 - Physics-Informed Neural Networks and Neural Differential Equations
@@ -416,7 +417,7 @@ This course consists of lectures focused on Transformers, providing a deep dive 
 - Transformers in Language: GPT-3, Codex
 - Applications in Vision
 - Transformers in RL & Universal
-Compute Engines
+  Compute Engines
 - Scaling transformers
 - Interpretability with transformers
 - ...
@@ -644,7 +645,7 @@ Covers the fundamental concepts of deep learning
 - Encoder-decoder recurrent neural networks and transformers
 - PyTorch code examples
 
-🔗 [Link to Course](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)  🔗 [Link to Materials](https://sebastianraschka.com/blog/2021/dl-course.html)
+🔗 [Link to Course](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) 🔗 [Link to Materials](https://sebastianraschka.com/blog/2021/dl-course.html)
 
 ## Self-Driving Cars (Tübingen)
 
@@ -673,7 +674,7 @@ Designing autonomous decision making systems is one of the longstanding goals of
 - Monte Carlo Methods
 - ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)  🔗 [Link to Materials](https://chandar-lab.github.io/INF8953DE/)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua) 🔗 [Link to Materials](https://chandar-lab.github.io/INF8953DE/)
 
 ## Foundations of Deep RL
 
@@ -688,7 +689,6 @@ A mini 6-lecture series by Pieter Abbeel.
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
 
-
 ## Stanford CS234: Reinforcement Learning
 
 Covers topics from basic concepts of Reinforcement Learning to more advanced ones:
@@ -701,22 +701,22 @@ Covers topics from basic concepts of Reinforcement Learning to more advanced one
 - Exploration
 - ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)  🔗 [Link to Materials](https://web.stanford.edu/class/cs234/)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) 🔗 [Link to Materials](https://web.stanford.edu/class/cs234/)
 
 ## Stanford CS330: Deep Multi-Task and Meta Learning
 
 This is a graduate-level course covering different aspects of deep multi-task and meta learning.
 
-- Multi-task learning, transfer learning basics 
-- Meta-learning algorithms 
-- Advanced meta-learning topics 
+- Multi-task learning, transfer learning basics
+- Meta-learning algorithms
+- Advanced meta-learning topics
 - Multi-task RL, goal-conditioned RL
-- Meta-reinforcement learning 
+- Meta-reinforcement learning
 - Hierarchical RL
 - Lifelong learning
 - Open problems
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)  🔗 [Link to Materials](https://cs330.stanford.edu/)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) 🔗 [Link to Materials](https://cs330.stanford.edu/)
 
 ## MIT Deep Learning in Life Sciences
 
@@ -749,7 +749,7 @@ This is course is from Peter Abbeel and covers a review on reinforcement learnin
 - LQR, iterative LQR / Differential Dynamic Programming
 - ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)  🔗 [Link to Materials](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) 🔗 [Link to Materials](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
 ---
 
