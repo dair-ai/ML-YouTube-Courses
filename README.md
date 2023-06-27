@@ -309,7 +309,8 @@ To learn the probabilistic paradigm of ML:
 - Graphical Models
 - Tuning Inference Algorithms
 - ...
-  🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
 
 ## MIT 6.S897: Machine Learning for Healthcare (2019)
 
