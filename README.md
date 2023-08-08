@@ -35,6 +35,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 **Practical Machine Learning**
 
 - [LangChain & Vector Databases in Production](#langchain--vector-databases-in-production)
+- [Building LLM-Powered Apps]()
 - [Full Stack LLM Bootcamp](#full-stack-llm-bootcamp)
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
@@ -632,6 +633,16 @@ Learn how to use LangChain and Vector DBs in Production:
 
 🔗 [Link to Course](https://learn.activeloop.ai/courses/langchain)
 
+## Building LLM-Powered Apps
+
+Learn how to build LLM-powered applications using LLM APIs
+
+- Unpacking LLM APIs
+- Building a Baseline LLM Application
+- Enhancing and Optimizing LLM Applications
+- ...
+
+🔗 [Link to Course](https://www.wandb.courses/courses/building-llm-powered-apps)
 
 ## Full Stack LLM Bootcamp
 
