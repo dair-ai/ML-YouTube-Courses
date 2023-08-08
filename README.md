@@ -34,7 +34,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Practical Machine Learning**
 
-- [Full Stack LLM Bootcamp]()
+- [Full Stack LLM Bootcamp](#full-stack-llm-bootcamp)
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
 - [Stanford MLSys Seminars](#stanford-mlsys-seminars)
