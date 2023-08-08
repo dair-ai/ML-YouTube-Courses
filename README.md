@@ -34,6 +34,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Practical Machine Learning**
 
+- [LangChain & Vector Databases in Production]()
 - [Full Stack LLM Bootcamp](#full-stack-llm-bootcamp)
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
@@ -618,6 +619,19 @@ The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL
 - ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+
+## LangChain & Vector Databases in Production
+
+Learn how to use LangChain and Vector DBs in Production:
+
+- LLMs and LangChain
+- Learning how to Prompt
+- Keeping Knowledge Organized with Indexes
+- Combining Components Together with Chains
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+
 
 ## Full Stack LLM Bootcamp
 
