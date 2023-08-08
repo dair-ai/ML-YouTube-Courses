@@ -34,6 +34,11 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Practical Machine Learning**
 
+- [Evaluating and Debugging Generative AI]()
+- [ChatGPT Prompt Engineering for Developers]()
+- [LangChain for LLM Application Development]()
+- [LangChain: Chat with Your Data]()
+- [Building Systems with the ChatGPT API]()
 - [LangChain & Vector Databases in Production](#langchain--vector-databases-in-production)
 - [Building LLM-Powered Apps](#building-llm-powered-apps)
 - [Full Stack LLM Bootcamp](#full-stack-llm-bootcamp)
@@ -620,6 +625,58 @@ The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL
 - ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+
+
+## Evaluating and Debugging Generative AI
+
+You'll learn:
+
+- Instrument A Jupyter Notebook
+- Manage Hyperparameters Config
+- Log Run Metrics
+- Collect artifacts for dataset and model versioning
+- Log experiment results
+- Trace prompts and responses for LLMs
+- ...
+
+🔗 [Link to Course](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
+
+## ChatGPT Prompt Engineering for Developers
+
+Learn how to use a large language model (LLM) to quickly build new and powerful applications.
+
+🔗 [Link to Course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+## LangChain for LLM Application Development
+
+You'll learn:
+
+- Models, Prompt, and Parsers
+- Memories for LLMs
+- Chains
+- Question Answering over Documents
+- Agents
+
+🔗 [Link to Course](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
+## LangChain: Chat with Your Data
+
+You'll learn about:
+
+- Document Loading
+- Document Splitting
+- Vector Stores and Embeddings
+- Retrieval
+- Question Answering
+- Chat
+
+🔗 [Link to Course](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+
+## Building Systems with the ChatGPT API
+
+Learn how to automate complex workflows using chain calls to a large language model.
+
+🔗 [Link to Course](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 
 ## LangChain & Vector Databases in Production
 
