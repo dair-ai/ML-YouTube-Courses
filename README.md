@@ -34,11 +34,11 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Practical Machine Learning**
 
-- [Evaluating and Debugging Generative AI]()
-- [ChatGPT Prompt Engineering for Developers]()
-- [LangChain for LLM Application Development]()
-- [LangChain: Chat with Your Data]()
-- [Building Systems with the ChatGPT API]()
+- [Evaluating and Debugging Generative AI](#evaluating-and-debugging-generative-ai)
+- [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
+- [LangChain for LLM Application Development](#langchain-for-llm-application-development)
+- [LangChain: Chat with Your Data](#langchain-chat-with-your-data)
+- [Building Systems with the ChatGPT API](#building-systems-with-the-chatgpt-api)
 - [LangChain & Vector Databases in Production](#langchain--vector-databases-in-production)
 - [Building LLM-Powered Apps](#building-llm-powered-apps)
 - [Full Stack LLM Bootcamp](#full-stack-llm-bootcamp)
