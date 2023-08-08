@@ -630,7 +630,7 @@ Learn how to use LangChain and Vector DBs in Production:
 - Combining Components Together with Chains
 - ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+🔗 [Link to Course](https://learn.activeloop.ai/courses/langchain)
 
 
 ## Full Stack LLM Bootcamp
