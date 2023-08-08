@@ -1,4 +1,4 @@
-# 📺 ML YouTube Courses
+# 📺 ML/AI Courses
 
 At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some of the best and most recent machine learning courses available on YouTube.
 
