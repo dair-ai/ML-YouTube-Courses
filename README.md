@@ -34,6 +34,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Practical Machine Learning**
 
+- [Full Stack LLM Bootcamp]()
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
 - [Stanford MLSys Seminars](#stanford-mlsys-seminars)
@@ -617,6 +618,21 @@ The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL
 - ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+
+## Full Stack LLM Bootcamp
+
+To learn how to build and deploy LLM-powered applications:
+
+- Learn to Spell: Prompt Engineering
+- LLMOPs
+- UX for Language User Interfaces
+- Augmented Language Models
+- Launch an LLM App in One Hour
+- LLM Foundations
+- Project Walkthrough: askFSDL
+- ...
+
+🔗 [Link to Course](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 
 ## Full Stack Deep Learning
 
