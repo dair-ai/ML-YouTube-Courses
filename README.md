@@ -35,7 +35,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 **Practical Machine Learning**
 
 - [LangChain & Vector Databases in Production](#langchain--vector-databases-in-production)
-- [Building LLM-Powered Apps]()
+- [Building LLM-Powered Apps](#building-llm-powered-apps)
 - [Full Stack LLM Bootcamp](#full-stack-llm-bootcamp)
 - [Full Stack Deep Learning](#full-stack-deep-learning)
 - [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
