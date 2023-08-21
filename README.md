@@ -50,6 +50,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Natural Language Processing**
 
+- [XCS224U: Natural Language Understanding (2023)]()
 - [Stanford CS25 - Transformers United](#stanford-cs25---transformers-united)
 - [NLP Course (Hugging Face)](#nlp-course-hugging-face)
 - [CS224N: Natural Language Processing with Deep Learning](#cs224n-natural-language-processing-with-deep-learning)
@@ -417,6 +418,19 @@ This course introduces the practical and theoretical principles of deep neural n
 - Globalizing the Understanding of Models
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
+
+## XCS224U: Natural Language Understanding (2023)
+
+This course covers topics such as:
+
+- Contextual Word Representations
+- Information Retrieval
+- In-context learning
+- Behavioral Evaluation of NLU models
+- NLP Methods and Metrics
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)
 
 ## Stanford CS25 - Transformers United
 
