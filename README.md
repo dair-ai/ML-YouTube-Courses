@@ -50,7 +50,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Natural Language Processing**
 
-- [XCS224U: Natural Language Understanding (2023)]()
+- [XCS224U: Natural Language Understanding (2023)](#xcs224u-natural-language-understanding-2023)
 - [Stanford CS25 - Transformers United](#stanford-cs25---transformers-united)
 - [NLP Course (Hugging Face)](#nlp-course-hugging-face)
 - [CS224N: Natural Language Processing with Deep Learning](#cs224n-natural-language-processing-with-deep-learning)
