@@ -608,7 +608,7 @@ To learn modern methods for computer vision:
 - Self-Supervised Learning
 - Neural Rendering
 - Efficient Architectures
-- Machine Learning Engineering for Production (MLOps)
+- Machine Learning Operations (MLOps)
 - Modern Convolutional Neural Networks
 - Transformers in Vision
 - Model Deployment
