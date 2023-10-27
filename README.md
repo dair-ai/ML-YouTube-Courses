@@ -586,20 +586,6 @@ To learn some of the fundamental concepts in CV:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
-## deep-learning-for-computer-vision-neuralearn.ai
-
-To learn modern methods for computer vision:
-
-- Self-supervised learning
-- Neural rendering
-- Efficient architectures
-- MLOps
-- Modern convolutional neural networks
-- Transformers in vision
-- Model deployment
-
-🔗 [Link to Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
-
 ## Deep Learning for Computer Vision (DL4CV)
 
 To learn modern methods for computer vision:
@@ -615,6 +601,20 @@ To learn modern methods for computer vision:
 - Efficient Architectures
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
+
+## deep-learning-for-computer-vision-neuralearn.ai
+
+To learn modern methods for computer vision:
+
+- Self-supervised learning
+- Neural rendering
+- Efficient architectures
+- MLOps
+- Modern convolutional neural networks
+- Transformers in vision
+- Model deployment
+
+🔗 [Link to Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
 
 ## AMMI Geometric Deep Learning Course
 
