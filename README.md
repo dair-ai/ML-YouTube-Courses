@@ -582,7 +582,6 @@ To learn some of the fundamental concepts in CV:
 - Attention Networks
 - Detection and Segmentation
 - Generative Models
-- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
