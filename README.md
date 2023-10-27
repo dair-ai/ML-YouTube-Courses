@@ -65,7 +65,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [CS231N: Convolutional Neural Networks for Visual Recognition](#cs231n-convolutional-neural-networks-for-visual-recognition)
 - [Deep Learning for Computer Vision](#deep-learning-for-computer-vision)
 - [Deep Learning for Computer Vision (DL4CV)](#deep-learning-for-computer-vision-dl4cv)
-- [Deep Learning for Computer Vision (neuralearn.ai)](##deep-learning-for-computer-vision-neuralearn.ai)
+- [Deep Learning for Computer Vision (neuralearn.ai)](#deep-learning-for-computer-vision-neuralearn.ai)
 
 **Reinforcement Learning**
 
