@@ -65,6 +65,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [CS231N: Convolutional Neural Networks for Visual Recognition](#cs231n-convolutional-neural-networks-for-visual-recognition)
 - [Deep Learning for Computer Vision](#deep-learning-for-computer-vision)
 - [Deep Learning for Computer Vision (DL4CV)](#deep-learning-for-computer-vision-dl4cv)
+- [Deep Learning for Computer Vision (neuralearn.ai)](#deep-learning-for-computer-vision-neuralearn.ai)
 
 **Reinforcement Learning**
 
@@ -584,6 +585,20 @@ To learn some of the fundamental concepts in CV:
 - ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+
+## deep-learning-for-computer-vision-neuralearn.ai
+
+To learn modern methods for computer vision:
+
+- Self-supervised learning
+- Neural rendering
+- Efficient architectures
+- MLOps
+- Modern convolutional neural networks
+- Transformers in vision
+- Model deployment
+
+🔗 [Link to Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
 
 ## Deep Learning for Computer Vision (DL4CV)
 
