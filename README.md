@@ -601,7 +601,7 @@ To learn modern methods for computer vision:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
 
-## deep-learning-for-computer-vision-neuralearn.ai
+## Deep Learning for Computer Vision (neuralearn.ai)
 
 To learn modern methods for computer vision:
 
