@@ -26,7 +26,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
 - [Foundation Models](#foundation-models)
 - [Deep Learning (Tübingen)](#deep-learning-Tübingen)
-- [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+- [Complete Deep Learning (Krish Naik)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 
 **Scientific Machine Learning**
 
@@ -65,6 +65,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [CS231N: Convolutional Neural Networks for Visual Recognition](#cs231n-convolutional-neural-networks-for-visual-recognition)
 - [Deep Learning for Computer Vision](#deep-learning-for-computer-vision)
 - [Deep Learning for Computer Vision (DL4CV)](#deep-learning-for-computer-vision-dl4cv)
+- [Deep Learning for Computer Vision (neuralearn.ai)](#deep-learning-for-computer-vision-neuralearnai)
 
 **Reinforcement Learning**
 
@@ -581,7 +582,6 @@ To learn some of the fundamental concepts in CV:
 - Attention Networks
 - Detection and Segmentation
 - Generative Models
-- ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
@@ -600,6 +600,20 @@ To learn modern methods for computer vision:
 - Efficient Architectures
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
+
+## Deep Learning for Computer Vision (neuralearn.ai)
+
+To learn modern methods for computer vision:
+
+- Self-Supervised Learning
+- Neural Rendering
+- Efficient Architectures
+- Machine Learning Operations (MLOps)
+- Modern Convolutional Neural Networks
+- Transformers in Vision
+- Model Deployment
+
+🔗 [Link to Course](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
 
 ## AMMI Geometric Deep Learning Course
 
