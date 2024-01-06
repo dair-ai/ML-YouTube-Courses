@@ -1,4 +1,5 @@
 # 📺 ML YouTube Courses
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
 At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some of the best and most recent machine learning courses available on YouTube.
 
