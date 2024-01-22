@@ -33,7 +33,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Practical Machine Learning**
 
-- [LLMOps: Building Real-World Applications With Large Language Models]()
+- [LLMOps: Building Real-World Applications With Large Language Models](#llmops-building-real-world-applications-with-large-language-models)
 - [Evaluating and Debugging Generative AI](#evaluating-and-debugging-generative-ai)
 - [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
 - [LangChain for LLM Application Development](#langchain-for-llm-application-development)
