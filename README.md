@@ -55,7 +55,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 - [CS224N: Natural Language Processing with Deep Learning](#cs224n-natural-language-processing-with-deep-learning)
 - [CMU Neural Networks for NLP](#cmu-neural-networks-for-nlp)
 - [CS224U: Natural Language Understanding](#cs224u-natural-language-understanding)
-- [CMU Advanced NLP 2021/2022](#cmu-advanced-nlp)
+- [CMU Advanced NLP 2021/2022/2024](#cmu-advanced-nlp)
 - [Multilingual NLP](#multilingual-nlp)
 - [Advanced NLP](#advanced-nlp)
 
@@ -518,6 +518,8 @@ To learn:
 🔗 [Link to 2021 Edition](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
 
 🔗 [Link to 2022 Edition](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
+
+🔗 [Link to 2024 Edition](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg)
 
 ## Multilingual NLP
 
