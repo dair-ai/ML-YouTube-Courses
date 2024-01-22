@@ -33,6 +33,7 @@ At DAIR.AI we ❤️ open AI education. In this repo, we index and organize some
 
 **Practical Machine Learning**
 
+- [LLMOps: Building Real-World Applications With Large Language Models]()
 - [Evaluating and Debugging Generative AI](#evaluating-and-debugging-generative-ai)
 - [ChatGPT Prompt Engineering for Developers](#chatgpt-prompt-engineering-for-developers)
 - [LangChain for LLM Application Development](#langchain-for-llm-application-development)
@@ -655,6 +656,12 @@ The Deep Learning Lecture Series is a collaboration between DeepMind and the UCL
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
+
+## LLMOps: Building Real-World Applications With Large Language Models
+
+Learn to build modern software with LLMs using the newest tools and techniques in the field.
+
+🔗 [Link to Course](https://www.comet.com/site/llm-course/)
 
 ## Evaluating and Debugging Generative AI
 
